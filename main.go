@@ -425,8 +425,8 @@ func initScore() []hiScoreT {
 		{Name: "Gaurav", Score: 10000},
 		{Name: "Aryansh", Score: 7500},
 		{Name: "Samarth", Score: 5000},
-		{Name: "USK", Score: 2500},
-		{Name: "PP", Score: 1000},
+		// {Name: "USK", Score: 2500},
+		// {Name: "PP", Score: 1000},
 	}
 	for i := range temp {
 		hs = append(hs, temp[i])
