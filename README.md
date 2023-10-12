@@ -1,9 +1,13 @@
 # Leave me Alone !!!
 
-
+ 
  @javidx9 
  He Helped me to Understand the Game logic and the basics of the game. Here's his video on tetris in c++
  https://youtu.be/8OK8_tHeCIA?si=7DRu3aT7H5EXQUWN
+
+
+https://github.com/EuclidStellar/Go-Peep-pop/assets/100860877/d4fb7825-a0b7-4d86-98c2-3ed0c8276d9d
+
 
 
 
