@@ -1,6 +1,14 @@
 # Leave me Alone !!!
 
 
+ @javidx9 
+ He Helped me to Understand the Game logic and the basics of the game. Here's his video on tetris in c++
+ https://youtu.be/8OK8_tHeCIA?si=7DRu3aT7H5EXQUWN
+
+
+
+<!-- 
+Some Nomad
 
 Oh, love of mine
 
@@ -47,4 +55,4 @@ There's a better place than this
 
 Emptiness, yeah!
 
-
+ -->
